@@ -1,3 +1,6 @@
 == Food Bistro(Recipe box app)
 
 Recipe box, with nested forms (each recipe has multiple ingredients and multiple steps), image uploading, and using HAML instead of ERB and I've added a Google Bot in it [Live](https://murmuring-basin-79708.herokuapp.com)
+![](https://res.cloudinary.com/malaika/image/upload/v1540128920/Screenshot_2018-10-21_Recipe_App.png)
+![](https://res.cloudinary.com/malaika/image/upload/v1540128934/Screenshot_2018-10-21_Recipe_App_1.png)
+![](https://res.cloudinary.com/malaika/image/upload/v1540128950/Screenshot_2018-10-21_Recipe_App_2.png)
