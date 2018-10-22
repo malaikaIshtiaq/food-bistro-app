@@ -8,7 +8,7 @@ class RecipesController < ApplicationController
 
 	def show
 	end
-
+	
 	def new
 		@recipe = current_user.recipes.build
 	end
